@@ -55,5 +55,6 @@ namespace LaunchApi
                 endpoints.MapControllers();
             });
         }
+    
     }
 }
